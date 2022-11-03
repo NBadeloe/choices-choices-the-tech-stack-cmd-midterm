@@ -1,0 +1,41 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "slicemachine": "start-slicemachine"
+  },
+  "name": "choices-choices-the-tech-stack-cmd-midterm",
+  "version": "1.0.0",
+  "description": "> _Fork_ deze leertaak en ga aan de slag. \r Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. \r De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBadeloe/choices-choices-the-tech-stack-cmd-midterm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBadeloe/choices-choices-the-tech-stack-cmd-midterm/issues"
+  },
+  "homepage": "https://github.com/NBadeloe/choices-choices-the-tech-stack-cmd-midterm#readme",
+  "dependencies": {
+    "@prismicio/client": "^6.7.1",
+    "@prismicio/helpers": "^2.3.5",
+    "@prismicio/next": "^0.1.7",
+    "@prismicio/react": "^2.5.0",
+    "@prismicio/slice-simulator-react": "^0.2.2",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@prismicio/types": "^0.2.3",
+    "slice-machine-ui": "^0.5.1"
+  }
+}
